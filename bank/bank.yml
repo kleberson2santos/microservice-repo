@@ -7,4 +7,3 @@ spring:
     maximum-pool-size: 5
     minimum-idle: 3
     hikari.idle-time: 10000
-  jpa.show-sql: true
